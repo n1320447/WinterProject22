@@ -21,7 +21,7 @@ Example Use Case:
 
 Potential technlogies used:
 1. Front End:
-    - HTML/CSS
+    - HTML/CSS (Bootstrap)
         - Create webpages
     - JavaScript
 2. Back End:
