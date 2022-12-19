@@ -31,7 +31,7 @@ Potential technlogies used:
     - RestAPI
         - Interface for data saved in database
         - Build API to allow secure access to data saved in DataBase
-    - SQL (e.g.: PostresSQL, SQLite)
+    - SQL (e.g.: PostgresSQL, SQLite)
         - Create/store user profiles
         - Store data of each coffee shop
         - Store points
