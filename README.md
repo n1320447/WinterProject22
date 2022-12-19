@@ -2,6 +2,8 @@
 
 Webapplication to provide crowdsourced information about a coffeeshop's current capacity. 
 
+Issue this will solve: Google maps provides current capacity based on number of phones currently in coffee shop. Sometimes those people are just in line to by coffee and they will leave quickly. Other times, google will mark coffee shop as empty/ but all tables are taken by 1 or 2 people, appearing to google that the coffee shop is empty. With our application we will provide more accurate information provided by actual people. 
+
 Features:
 1. Will save from driving to coffeshop to find it is full.
 2. Simple to use.
