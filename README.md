@@ -16,6 +16,7 @@ Example Use Case:
 3. User inputs information for specific coffee shop.
 4. User receives points.
 
+
 Potential technlogies used:
 1. Front End:
     - HTML/CSS
@@ -24,5 +25,8 @@ Potential technlogies used:
     - RestAPI
     - SQL
     - Amazon Web Services (for Hosting Servers)
+
+Other misc. info:
+- 
 
 ![First Diagram](https://user-images.githubusercontent.com/68760828/208490169-4acbdf08-a8b2-4864-b957-73e7ca2714ac.jpg)
