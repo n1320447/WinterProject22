@@ -6,7 +6,7 @@ Features:
 1. Will save from driving to coffeshop to find it is full.
 2. Simple to use.
 3. Provide accurate information when data is freshly input.
-4. Receive points to where a user can save for coffee.
+4. Receive points that a user can save for coffee.
 5. Incentive to providing data will be that after certain points a user can receive enough to convert to a coffee.
 
 
