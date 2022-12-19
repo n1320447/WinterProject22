@@ -30,12 +30,12 @@ Potential technlogies used:
 2. Back End:
     - RestAPI
         - Interface for data saved in database
+        - Build API to allow secure access to data saved in DataBase
     - SQL (e.g.: PostresSQL, SQLite)
         - Create/store user profiles
         - Store data of each coffee shop
         - Store points
         - Allow creation of new coffee shops
-        - 
     - Amazon Web Services (for Hosting Servers)
         - Use free hosting service
 
