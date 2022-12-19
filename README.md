@@ -22,11 +22,19 @@ Example Use Case:
 Potential technlogies used:
 1. Front End:
     - HTML/CSS
+        - Create webpages
     - JavaScript
 2. Back End:
     - RestAPI
-    - SQL
+        - Interface for data saved in database
+    - SQL (e.g.: PostresSQL, SQLite)
+        - Create/store user profiles
+        - Store data of each coffee shop
+        - Store points
+        - Allow creation of new coffee shops
+        - 
     - Amazon Web Services (for Hosting Servers)
+        - Use free hosting service
 
 Other misc. info:
 - 
