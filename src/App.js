@@ -14,6 +14,7 @@ import NotFound from './pages/NotFound'
 import Careers, { careersLoader } from './pages/careers/Careers'
 import CareerDetails, { careerDetailsLoader } from "./pages/careers/CareerDetails"
 import CareersError from './pages/careers/CareersError'
+import Map from './pages/Map'
 
 // layouts
 import RootLayout from './layouts/RootLayout'
@@ -29,6 +30,7 @@ const router = createBrowserRouter(
         <Route path="faq" element={<Faq />} />
         <Route path="contact" element={<Contact/>} action={contactAction} />
       </Route>
+      <Route path="map" element={<Map/>}/>
       <Route path="careers" element={<CareersLayout />} errorElement={<CareersError />}>
         <Route 
           index 
